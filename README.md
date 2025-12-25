@@ -15,7 +15,6 @@ https://www.youtube.com/watch?v=zzytg50RArc
 2. Extract it to .minecraft/mods.
 3. Run it with fabric api.
 4. Press RSHIFT while chat bar open or on minecraft menu
-5. **DONT USE CUSTOM FONT ON HUD**
 
 # Credits
 - Seyit - Cracking.
